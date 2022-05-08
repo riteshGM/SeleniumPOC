@@ -3,11 +3,11 @@ Pre-Requisites:
 
 i. Install Latest Eclipse Community Version
 ii. Installing Maven in Eclipse
-  help>>install new software>> Add
-  MAVEN
-  https://download.eclipse.org/technology/m2e/releases/latest/
+help>>install new software>> Add
+MAVEN
+https://download.eclipse.org/technology/m2e/releases/latest/
 iii. Install TestNG in Eclipse
-  https://testng.org/testng-eclipse-update-site/7.4.0
+https://testng.org/testng-eclipse-update-site/7.4.0
 iv. Install Git Bash in your local machine
 v. There is no need for .exe of drivers.
 
