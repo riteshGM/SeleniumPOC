@@ -3,8 +3,6 @@ package com.learning.config;
 import org.aeonbits.owner.Config;
 import org.aeonbits.owner.Config.Sources;
 
-import java.util.List;
-
 @Sources(value = "file:${user.dir}/src/test/resources/config/config.properties")
 public interface FrameworkConfig extends Config {
 

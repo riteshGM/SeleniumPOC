@@ -1,6 +1,5 @@
 package com.learning.rough.datasupplier_excel;
 
-import com.learning.testdata.TestData;
 import io.github.sskorol.core.DataSupplier;
 import io.github.sskorol.data.TestDataReader;
 import io.github.sskorol.data.XlsxReader;

@@ -19,5 +19,6 @@ public class DataSupplierTest {
     public List<String> getData(){
         return Arrays.asList("Selenium","Appium","RestAssured");
     }
+    
 
 }

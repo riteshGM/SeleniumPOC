@@ -1,6 +1,5 @@
 package com.learning.testdata;
 
-import com.beust.jcommander.converters.IntegerConverter;
 import com.creditdatamw.zerocell.annotation.Column;
 
 public class TestData {
